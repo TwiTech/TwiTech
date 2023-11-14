@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @TwiTech
+- 👋 Hi, I’m Tawakalit Agboola
 - 👀 I’m interested in Data Science and Machine Learning projects
-- 🌱 I’m currently working on:
-   - Boston house pricing
-   - Online Retail II
 - 📫 How to reach me:
-  - 08148153036
   - agboolatawakalit0@gmail.com
 
 <!---
