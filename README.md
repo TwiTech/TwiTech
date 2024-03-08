@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tawakalit Agboola
 - 👀 I’m interested in Data Science and Machine Learning projects
-- 📫 How to reach me:
-  - agboolatawakalit0@gmail.com
+- www.linkedin.com/in/tawakalit-agboola
 
 <!---
 TwiTech/TwiTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
