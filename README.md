@@ -1,35 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=750&height=150&lines=Hello+%F0%9F%91%8B%2C+I'm+Tawakalit+Omolabake+Agboola;I+am+a+passionate+Data+Scientist++%F0%9F%A4%96)](https://git.io/typing-svg)
 
-<!--
-![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/durgeshrao9993)
-
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/discussion) -->
-
-<!--<p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/discussion/" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/notebook/" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/dataset/" />
-<!--   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/competition/" />  -->
-<!--</p>-->
-
-
-
-<!-- <p align="right"> <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width = "300px" height="300px"> </p> -->
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=twitech&theme=onestar&row=1&column=8)
 
-<!-- ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/discussion)  -->
-
-<!-- <p align="right"> <img src="https://novacene.ai/wp-content/uploads/2020/10/records-classification-automation-930x602.png" alt="durgesh716" style="width:250px;height:250px;/> </p>
- -->
-
-[![@durgesh716's Holopin board](https://holopin.me/durgesh716)](https://holopin.io/@durgesh716)
 
 
 - 📫 How to reach me **agboolatawakalit0@gmail.com**
